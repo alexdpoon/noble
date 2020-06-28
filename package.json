@@ -34,10 +34,10 @@
   ],
   "dependencies": {
     "debug": "~2.2.0",
-     "xpc-connection": "sandeepmistry/node-xpc-connection#26/head"
+    "xpc-connection": "sandeepmistry/node-xpc-connection#pull/26/head"
   },
   "resolutions": {
-    "xpc-connection": "sandeepmistry/node-xpc-connection#26/head"
+    "xpc-connection": "sandeepmistry/node-xpc-connection#pull/26/head"
   },
   "optionalDependencies": {
     "bluetooth-hci-socket": "^0.5.1",
